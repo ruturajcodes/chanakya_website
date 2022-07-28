@@ -1,0 +1,19 @@
+body{
+    background-image: url("exp.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h4{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}
+p{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}

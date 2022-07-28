@@ -1,0 +1,17 @@
+body{
+    background-image: url("edu.jpg");  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h4{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
